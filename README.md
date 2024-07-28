@@ -1,25 +1,35 @@
-# Bisnis-
+# 👋 Hai! Senang bertemu.
 
-# JEEY STORE Website
+Saya **Jeey Srore**, seorang Full Stack Developer. Saya lahir di Manado dan sekarang tinggal di Gorontalo, Indonesia. 🇮🇩
 
-Website ini adalah platform online untuk **JEEY STORE**, toko yang menjual berbagai menu script dan panel untuk menjalankan bot WhatsApp. Website ini memberikan solusi automasi yang inovatif untuk membantu pengguna dalam mengelola komunikasi WhatsApp mereka secara lebih efisien.
+## Hal-hal yang saya gunakan dalam coding
+- 🌐 HTML, CSS, JavaScript
+- 🛠️ React, Webpack, Docker
+- 💻 Node.js, Apollo GraphQL, TypeScript
+- 📦 Redux, GitHub Actions
+- ☁️ Google Cloud Platform, Firebase
 
-## Fitur
+## Proyek Terbaru
+- **Belajar HTML, CSS, dan JavaScript untuk Pemula:** Panduan dari A hingga Z untuk mengenal elemen-elemen HTML, CSS, dan JavaScript.
+- **Proyek A:** Deskripsi singkat tentang proyek ini.
+- **Proyek B:** Deskripsi singkat tentang proyek ini.
 
-- **Homepage:** Halaman utama yang menyambut pengunjung dengan informasi tentang layanan yang ditawarkan.
-- **Produk:** Menampilkan berbagai produk script dan panel bot yang tersedia.
-- **Tentang Kami:** Informasi tentang sejarah dan tujuan dari JEEY STORE.
-- **Kontak:** Cara mudah untuk menghubungi tim kami.
+## 📫 Cara Menghubungi Saya
+- 📧 Email: jeeystore626@gmail.com
+- 📱 WhatsApp: [nomor WhatsApp Anda]
+- 🏠 [Toko Jeey](https://www.instagram.com/jee_toko01)
+- 💬 [Telegram](https://t.me/jeey_toko)
 
-## Teknologi yang Digunakan
+## 📊 Statistik GitHub
+<p align="center">
+  <a href="https://github.com/Mohamad99-gtub/Sosial-media-">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mohamad99-gtub&show_icons=true&theme=tokyonight">
+  </a>
+</p>
 
-- **HTML5 & CSS3:** Untuk struktur dan tampilan website.
-- **Font Awesome:** Untuk ikon media sosial dan ikon lainnya.
-- **Desain Responsif:** Website ini dirancang agar responsif dan tampil baik di semua perangkat.
+## ✍️ Blog & Artikel
+Saya juga menulis tentang teknologi dan pengembangan web di blog saya. [Link ke blog atau platform tempat Anda menulis artikel.]
 
-## Cara Instalasi
+---
 
-1. **Clone Repository**
-   ```bash
-   git clone https://github.com/Mohamad99-gtub/Sosial-media-.git
-   cd Sosial-media-
+Terima kasih telah mengunjungi profil saya! Jangan ragu untuk menghubungi saya jika Anda ingin berdiskusi lebih lanjut atau berkolaborasi dalam proyek.
